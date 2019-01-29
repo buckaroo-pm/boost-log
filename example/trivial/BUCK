@@ -1,0 +1,9 @@
+cxx_binary(
+  name = 'trivial',
+  srcs = [
+    'main.cpp',
+  ],
+  deps = [
+    '//:log',
+  ],
+)

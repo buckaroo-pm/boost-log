@@ -1,0 +1,54 @@
+targets = [ "//:log" ]
+
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-asio"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-config"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-filesystem"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-interprocess"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-locale"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-multi_index"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-parameter"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-predef"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-property_tree"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-proto"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-random"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-spirit"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-system"
+version = "branch=master"
