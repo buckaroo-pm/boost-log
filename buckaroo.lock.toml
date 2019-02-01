@@ -102,7 +102,7 @@ revision = "bb4226c58e17f8880779f19559a50e497f2bfcba"
 
 [lock."github.com/buckaroo-pm/boost-container_hash"]
 versions = [ "branch=master" ]
-revision = "ddd9a887f1f0253ded4455d455b3c54228067b74"
+revision = "0b9332d4df895e1077bab8ee34473a8882bfedf5"
 
 [lock."github.com/buckaroo-pm/boost-core"]
 versions = [ "branch=master" ]
@@ -258,7 +258,7 @@ revision = "9e8d936f28b7a384aa6988875967bc43ca665286"
 
 [lock."github.com/buckaroo-pm/boost-smart_ptr"]
 versions = [ "branch=master" ]
-revision = "7a147d3e6bead2fba47b60365fe1ae0c308768d5"
+revision = "894f4bae92fd47f51fa15a13247905195f914118"
 
 [lock."github.com/buckaroo-pm/boost-spirit"]
 versions = [ "branch=master" ]
