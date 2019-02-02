@@ -166,7 +166,7 @@ revision = "9c59f243631dca6da77a0401d15eaf071dea591f"
 
 [lock."github.com/buckaroo-pm/boost-iterator"]
 versions = [ "branch=master" ]
-revision = "427d132236d5048d64e3a861e29e943c13ce7059"
+revision = "6cf70fbf057ecbfec43013b7e39ef5011000798a"
 
 [lock."github.com/buckaroo-pm/boost-lambda"]
 versions = [ "branch=master" ]
