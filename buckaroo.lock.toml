@@ -278,7 +278,7 @@ revision = "205019c90a5e5e839fecabe65c3424f3a5887c49"
 
 [lock."github.com/buckaroo-pm/boost-thread"]
 versions = [ "branch=master" ]
-revision = "8d90d717bfaf52f39b355c1a530ad08ae0404bf0"
+revision = "81a99237d46a86e08a513234d3ab557dabf4a86b"
 
 [lock."github.com/buckaroo-pm/boost-throw_exception"]
 versions = [ "branch=master" ]
