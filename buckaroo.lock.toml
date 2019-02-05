@@ -98,7 +98,7 @@ revision = "4392ed19b232ed2dde7623843d7e30ef669d860e"
 
 [lock."github.com/buckaroo-pm/boost-container"]
 versions = [ "branch=master" ]
-revision = "bb4226c58e17f8880779f19559a50e497f2bfcba"
+revision = "efac3fd353ac5f106dbffb0813ad5e67688ee84d"
 
 [lock."github.com/buckaroo-pm/boost-container_hash"]
 versions = [ "branch=master" ]
@@ -174,7 +174,7 @@ revision = "36aa8d84a6a66ed76853615f8447edcd1e88b4e8"
 
 [lock."github.com/buckaroo-pm/boost-lexical_cast"]
 versions = [ "branch=master" ]
-revision = "9f6d656caf4b0037327c426219de6ef676a2ccdc"
+revision = "4a042cb0006e6bbdced9a44da97eb894521df42f"
 
 [lock."github.com/buckaroo-pm/boost-locale"]
 versions = [ "branch=master" ]
@@ -242,7 +242,7 @@ revision = "2fcd53bd05419d4aedacacee1465f593433c15f0"
 
 [lock."github.com/buckaroo-pm/boost-ratio"]
 versions = [ "branch=master" ]
-revision = "dabc418e4bb7a180d5d17c84fb4f0bd61a9ee024"
+revision = "1f612eed94abde0cba9d7410f57497d9b7fec768"
 
 [lock."github.com/buckaroo-pm/boost-rational"]
 versions = [ "branch=master" ]
