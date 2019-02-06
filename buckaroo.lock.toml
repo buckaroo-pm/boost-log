@@ -210,7 +210,7 @@ revision = "aa1d0a7f495d943570dfbd9ccc3e80aabe260fb7"
 
 [lock."github.com/buckaroo-pm/boost-parameter"]
 versions = [ "branch=master" ]
-revision = "292c3e063e8d44d4a967b70939a8a56d6c48d297"
+revision = "1a3418ef15b39b015221382fcdbfc526603b5a14"
 
 [lock."github.com/buckaroo-pm/boost-phoenix"]
 versions = [ "branch=master" ]
