@@ -122,7 +122,7 @@ revision = "c43bde6de716aeaa1958f523576599c384791da2"
 
 [lock."github.com/buckaroo-pm/boost-filesystem"]
 versions = [ "branch=master" ]
-revision = "c62175acfd4e66a2aba51a8d2188a5a5e0781217"
+revision = "4e51657e113d9218e8a51000a19a0c9a27f33f63"
 
 [lock."github.com/buckaroo-pm/boost-foreach"]
 versions = [ "branch=master" ]
@@ -162,7 +162,7 @@ revision = "e6f5b8de720f0a55409b6ef901f9ae7e676c6cd9"
 
 [lock."github.com/buckaroo-pm/boost-iostreams"]
 versions = [ "branch=master" ]
-revision = "9c59f243631dca6da77a0401d15eaf071dea591f"
+revision = "d33bb0f433411688d63402a2774e3bfe9c29953e"
 
 [lock."github.com/buckaroo-pm/boost-iterator"]
 versions = [ "branch=master" ]
@@ -335,3 +335,7 @@ revision = "44002f228a0b91c556cd41f8ceb5b4bff7745166"
 [lock."github.com/buckaroo-pm/icu4c"]
 versions = [ "branch=master" ]
 revision = "2bfbe715e2c1cd41e301b6a67fd50ae54273a504"
+
+[lock."github.com/buckaroo-pm/madler-zlib"]
+versions = [ "branch=master" ]
+revision = "f07b731f16d83c65fa032285dbc87c1bd181956d"
