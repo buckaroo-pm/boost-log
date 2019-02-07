@@ -230,7 +230,7 @@ revision = "2a1faad74499b55f73e8f023a5057c7e8f391076"
 
 [lock."github.com/buckaroo-pm/boost-proto"]
 versions = [ "branch=master" ]
-revision = "153d707e0fbf7ea9898d5566e56264f0b181e320"
+revision = "ff5442377d14be8ce2c1ff1177c9ea67bf673af3"
 
 [lock."github.com/buckaroo-pm/boost-random"]
 versions = [ "branch=master" ]
@@ -337,5 +337,5 @@ versions = [ "branch=master" ]
 revision = "2bfbe715e2c1cd41e301b6a67fd50ae54273a504"
 
 [lock."github.com/buckaroo-pm/madler-zlib"]
-versions = [ "branch=master" ]
-revision = "f07b731f16d83c65fa032285dbc87c1bd181956d"
+versions = [ "1.0.1" ]
+revision = "58ef5ba6591f866cf24cb18a18c301daa9f5bb11"
